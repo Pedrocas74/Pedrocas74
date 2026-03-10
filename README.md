@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**Pedrocas74/Pedrocas74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I'm Pedro 😄, a junior Frontend Developer from Portugal<🇵🇹>.** I'm focused on growing my skills and building a meaningful path in web development. I enjoy exploring new ideas, and creating with intention. 
+Outside of coding, you’ll find me closing my 👀 while getting lost in music 🎶, immersed in videogames 🕹️, or capturing moments through photography 📷.
 
-Here are some ideas to get you started:
+### Currently working on: 
+⏳  Enhancing my personal portfolio, along with other 2 projects (Moo & SOL) that are presented there.
+🔗 **https://pedromagalhaes.vercel.app/**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently learning: 
+💡 React Native
+
+### Current Stack : 
+✔️ React
+✔️ Next.js
+✔️ TS/JS
+✔️ CSS Modules
+✔️ Framer Motion
+✔️ Git Bash
+✔️ Jest/Mocha 
