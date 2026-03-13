@@ -24,6 +24,6 @@ Outside of coding, you’ll find me closing my 👀 while getting lost in music 
 ✔️ Jest/Mocha 
 
 
-> #### Looking to contribute to a forward-thinking development team where I can apply my skills, learn continuously, and grow as a software developer.
+#### Looking to contribute to a forward-thinking development team where I can apply my skills, learn continuously, and grow as a software developer.
 
 ![Banner](https://pedromagalhaes.vercel.app/assets/work-images/Portfolio/logoPedroBlue.png)
